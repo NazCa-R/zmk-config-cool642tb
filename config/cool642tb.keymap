@@ -99,8 +99,8 @@
             bindings = <
 &kp TAB          &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS                  &kp MINUS       &kp EQUAL  &kp BACKSLASH  &kp AT_SIGN  &kp LEFT_BRACKET
 &kp KP_ASTERISK  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS   &trans  &trans  &trans          &mkp LCLK  &kp SEMICOLON  &kp SQT      &kp RIGHT_BRACKET
-&kp KP_DIVIDE    &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL  &trans  &trans  &kp KP_NUMLOCK  &trans     &trans         &trans       &trans
-&none            &kp KP_NUMBER_0  &kp KP_DOT       &none            &none         &trans  &trans  &kp LEFT_SHIFT                                         &trans
+&kp KP_DIVIDE    &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_ENTER  &trans  &trans  &kp KP_NUMLOCK  &trans     &trans         &trans       &trans
+&kp KP_EQUAL     &kp KP_NUMBER_0  &kp KP_DOT       &none            &none         &trans  &trans  &kp LEFT_SHIFT                                         &trans
             >;
         };
     };
